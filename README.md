@@ -56,3 +56,6 @@ Git, Trello, Figma
 
 15000€
 
+### Trello 
+
+https://trello.com/b/wTJwdom1/tp-trello-corentin-thomas-lucas-bastien
