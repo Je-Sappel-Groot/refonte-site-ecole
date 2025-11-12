@@ -33,7 +33,7 @@ _Thomas_ - Responsable cybersécurité
 → Responsabilités : Mettre à jour les add-ons, patcher les vulnérabilités
 
 
-### Technologies prévues
+#### Technologies prévues
 
 **Frontend**
 HTML, CSS, JavaScript, React
@@ -48,14 +48,14 @@ MySQL
 Git, Trello, Figma
 
 
-### Durée 
+#### Durée 
 
 3 Mois (// - //)
 
-### Budget
+#### Budget
 
 15000€
 
-### Trello 
+#### Trello 
 
 https://trello.com/b/wTJwdom1/tp-trello-corentin-thomas-lucas-bastien
