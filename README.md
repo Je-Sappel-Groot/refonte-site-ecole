@@ -1,17 +1,15 @@
 # refonte-site-ecole
-====================
 Projets de refonte du site Web de l'école - Gestion de Projets
 
 --------------------------------------------------
 
 ## Gestion de projet 
-====================
+
  _Bastien Boucaud, Lucas Chapeau, Thomas Sautie, Corentin Cottet-emard_
 
 Ce projet à pour but de mettre un pied dans la gestion de projets en groupe. Le but est de planifier les taches via un Trello.
 
 ### Les rôles des 4 personnes
-=============================
 
 **Personne 1 :**
 _Bastien_ - Gestionnaire de base de données du site ; Data scientist ; Machine learning
@@ -34,8 +32,7 @@ _Thomas_ - Responsable cybersécurité
 
 —-----------------------------------------------
 
-#### Technologies prévues
-=========================
+### Technologies prévues
 
 **Frontend**
 HTML, CSS, JavaScript, React
@@ -51,21 +48,18 @@ Git, Trello, Figma
 
 —-----------------------------------------------
 
-#### Durée 
-==========
+### Durée 
 
 3 Mois (// - //)
 
 —-----------------------------------------------
 
-#### Budget
-===========
+### Budget
 
 15000€
 
 —-----------------------------------------------
 
-#### Trello 
-===========
+### Trello 
 
 https://trello.com/b/wTJwdom1/tp-trello-corentin-thomas-lucas-bastien
